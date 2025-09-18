@@ -1,11 +1,10 @@
 Welcome to EPFL AI TEAM's BARK documentation!
-===================================
+=============================================
 
 For the 2025 - 2026 academic year, our goal is to finish the DINGO robot dog and build the Pupper V3. 
 
-
 **Roles**
------
+---------
 
 Robotics Track Lead
 ~~~~~~~~~~~~~~~~~~~
@@ -15,7 +14,6 @@ Project Leads
 ~~~~~~~~~~~~~
 * Johnan Luca  
 * Loïc Finette
-
 Members
 ~~~~~~~
 * Anaïs Espindola  
@@ -30,17 +28,16 @@ Members
 
    This project is under active development.
 
-Content
-========
 
 .. toctree::
-   :caption: Meeting
    :maxdepth: 1
+   :caption: Meetings
+   :hidden:
 
    meetings/18-09-2025
 
 .. toctree::
-   :caption: Tasks
    :maxdepth: 1
+   :hidden:
 
    tasks

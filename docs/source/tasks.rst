@@ -2,7 +2,9 @@ Tasks
 =====
 
 **Loïc:**
-* Work on website
+
+- Work on website
 
 **Johnan:**
-* Order Parts
+
+- Order Parts
