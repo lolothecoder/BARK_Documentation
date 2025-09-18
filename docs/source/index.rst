@@ -30,10 +30,17 @@ Members
 
    This project is under active development.
 
-Contents
---------
+Content
+========
 
 .. toctree::
+   :caption: Meeting
+   :maxdepth: 1
 
-   usage
-   api
+   meetings/18-09-2025
+
+.. toctree::
+   :caption: Tasks
+   :maxdepth: 1
+
+   tasks
