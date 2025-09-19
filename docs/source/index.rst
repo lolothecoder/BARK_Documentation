@@ -12,6 +12,10 @@ Important tools/website
 
 .. _Discord: https://discord.com
 
+`SharePoint`_ : Our drive where we store our documents
+
+.. _SharePoint: https://epflch.sharepoint.com/sites/ETU-EPFL_AI_Team/Documents%20partages/Forms/AllItems.aspx?id=%2Fsites%2FETU%2DEPFL%5FAI%5FTeam%2FDocuments%20partages%2FProjects%20Department%2FRobotics%20Track%2FOngoing%20Projects%2FBARK&viewid=7dda9788%2D4a3e%2D4390%2Dad8a%2D23140ef5bd11
+
 `Kicad`_ : What we use to view PCBs or perhaps one day make our own
 
 .. _Kicad: https://www.kicad.org/
@@ -19,6 +23,14 @@ Important tools/website
 `Fusion360`_ : Our CAD software of choice
 
 .. _Fusion360: https://www.autodesk.com/campaigns/fusion-360
+
+`Our Github Repo`_ : Our code for the DINGO
+
+.. _Our Github Repo: https://github.com/EPFL-AI-Team/BARK
+
+`Taiga`_ : Where tasks are assigned
+
+.. _Taiga: https://taiga.io/
 
 `DINGO repo`_ : The code and explanation of the DINGO
 
