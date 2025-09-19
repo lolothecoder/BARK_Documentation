@@ -12,6 +12,21 @@ Important tools/website
 
 .. _Discord: https://discord.com
 
+`Kicad`_ : What we use to view PCBs or perhaps one day make our own
+
+.. _Kicad: https://www.kicad.org/
+
+`Fusion360`_ : Our CAD software of choice
+
+.. _Fusion360: https://www.autodesk.com/campaigns/fusion-360
+
+`DINGO repo`_ : The code and explanation of the DINGO
+
+.. _DINGO repo: https://github.com/Yerbert/DingoQuadruped
+
+`Pupper v3 documentation`_ : The bible for Pupper v3
+
+.. _Pupper v3 documentation: https://pupper-v3-documentation.readthedocs.io/en/latest/
 
 **Roles**
 ---------
