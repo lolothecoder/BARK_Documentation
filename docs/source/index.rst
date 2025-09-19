@@ -8,8 +8,10 @@ Hey there! This is where the BARK team stores all important info. You can find i
 
 Important tools/website
 ~~~~~~~~~~~~~~~~~~~
-`Discord` : The main communication tool of the AI team
+`Discord`_ : The main communication tool of the AI team
+
 .. _Discord: https://discord.com
+
 
 **Roles**
 ---------
