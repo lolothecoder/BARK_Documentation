@@ -3,11 +3,32 @@ Welcome to EPFL AI TEAM's BARK documentation!
 
 Hey there! This is where the BARK team stores all important info. You can find important ressources here and the logs of the work session and the notes of the meeting. For the 2025 - 2026 academic year, our goal is to finish the DINGO robot dog and build the Pupper V3. 
 
+.. list-table::
+   :widths: 50 50
+   :header-rows: 0
+   :align: center
+
+   * - .. figure:: assets/dingo.jpg
+          :width: 300px
+          :align: center
+
+          Dingo robot
+
+     - .. figure:: assets/pupper.jpg
+          :width: 200px
+          :align: center
+
+          Pupper V3
+
+
+
 **Ressources**
 ---------
 
-Important tools/website
-~~~~~~~~~~~~~~~~~~~
+`Make`_ : Where you can sign up for the trainings
+
+.. _Make: https://make.epfl.ch/
+
 `Discord`_ : The main communication tool of the AI team
 
 .. _Discord: https://discord.com
