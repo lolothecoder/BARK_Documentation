@@ -20,6 +20,38 @@ Hey there! This is where the BARK team stores all important info. You can find i
 
           Pupper V3
 
+**Deadlines and meetings**
+---------
+
+Important deadlines : 
+~~~~~~~~~~~~~~~~~~~
+
+* **12.12 : Semester Review**
+* 23.09 - 25.09 : Semaine des Assos
+* 14.11 : Swiss Robotics Day
+
+Work Sessions
+~~~~~~~~~~~~~
+
+* Mondays 18h - 21h  
+* Saturday 11h - 17h
+
+The first 30 mins of the saturday session will be our weekly meeting. Please try to be present.
+If you can't be present to a work session please inform Johnan or Loïc in advance!
+
+**Accessing the DINGO**
+---------
+
+At the moment, we are keeping the DINGO and the parts in 2 lockers in Stock 1 at the SPOT. The codes
+for the locks are in our WhatsApp groupchat description. You are allowed to work on the DINGO whenever you want.
+But if you are not sure of something, ask someone who knows. We would like to avoid breaking things.
+
+
+.. figure:: assets/lockers.jpeg
+   :width: 300px
+   :align: center
+
+   Our lockers at SPOT.
 
 
 **Ressources**
@@ -87,15 +119,5 @@ Members
    This project is under active development.
 
 
-.. toctree::
-   :maxdepth: 1
-   :caption: Meetings
-   :hidden:
+.. include:: _sidebar.rst
 
-   meetings/18-09-2025
-
-.. toctree::
-   :maxdepth: 1
-   :hidden:
-
-   tasks
