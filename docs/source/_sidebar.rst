@@ -14,6 +14,6 @@
 
 .. toctree::
    :maxdepth: 1
-   :caption: Tasks
+   :caption: Diagnosis
 
-   tasks
+   diagnosis
