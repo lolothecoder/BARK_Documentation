@@ -17,9 +17,44 @@ I went to DLL to see what was going on with Dingo. The main goal is still the le
 We can see in the picture above that the green hip is not straight with the body.
 
 * Cut out a small part in the wood to more easily reprogram the arduino
+
+.. figure:: assets/cut.jpeg
+   :width: 500px
+   :align: center
+
+   Where to cut
+
 * Fix the servo Horn Falling off on the grey hip
+
+.. figure:: assets/ServoHorn.jpeg
+   :width: 500px
+   :align: center
+
+   The loose screw on the horn
+
+* Loosen nuts between hip and body
+.. figure:: assets/nut.jpeg
+   :width: 500px
+   :align: center
+
+   Bad picture but location of the nut. It makes the hip hard to turn.
+
 * Add the "clapet" to make it easier to put in/ remove the battery
 * Organize all of our stuff (maybe with the laser wood boxes)
+
+.. figure:: assets/box.png
+   :width: 500px
+   :align: center
+
+   An example of a box with multiple compartments for organization from boxes.py
+
 * Add a see through plane at the top of the robot to be able to see the 7 segments display
+
+.. figure:: assets/Pane.jpeg
+   :width: 500px
+   :align: center
+
+   Where the glass pane would go
+
 * Make a simple walk algorithm for the DINGO on the Arduino
 * Start flashing the PI and put ROS on it. Start understanding ROS and doing simulation 
