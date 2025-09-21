@@ -5,6 +5,13 @@ I went to DLL to see what was going on with Dingo. The main goal is still the le
 
 * **Find/Buy a new cable to program the arduino**
 * **Loosen the nut between the hip and the body to allow the leg to move better**
+
+.. figure:: assets/nut.jpeg
+   :width: 500px
+   :align: center
+
+   Bad picture but location of the nut. It makes the hip hard to turn.
+   
 * **Order the Full Parts Kit for Pupper v3**
 * Add screw to screw the hip to the body servos
 
@@ -31,13 +38,6 @@ We can see in the picture above that the green hip is not straight with the body
    :align: center
 
    The loose screw on the horn
-
-* Loosen nuts between hip and body
-.. figure:: assets/nut.jpeg
-   :width: 500px
-   :align: center
-
-   Bad picture but location of the nut. It makes the hip hard to turn.
 
 * Add the "clapet" to make it easier to put in/ remove the battery
 * Organize all of our stuff (maybe with the laser wood boxes)
