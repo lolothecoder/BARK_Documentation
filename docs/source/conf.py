@@ -3,10 +3,10 @@
 # -- Project information
 
 project = 'BARK'
-copyright = '2021, Graziella'
-author = 'Graziella'
+copyright = '2025, Loïc Finette'
+author = 'Loïc Finette'
 
-release = '0.1'
+release = '0.2'
 version = '0.1.0'
 
 # -- General configuration

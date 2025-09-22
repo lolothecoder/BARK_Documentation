@@ -21,10 +21,10 @@ Hey there! This is where the BARK team stores all important info. You can find i
           Pupper V3
 
 **Deadlines and meetings**
----------
+--------------------------
 
 Important deadlines : 
-~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
 
 * **12.12 : Semester Review**
 * 23.09 - 25.09 : Semaine des Assos
@@ -40,7 +40,7 @@ The first 30 mins of the saturday session will be our weekly meeting. Please try
 If you can't be present to a work session please inform Johnan or Loïc in advance!
 
 **Accessing the DINGO**
----------
+-----------------------
 
 At the moment, we are keeping the DINGO and the parts in 2 lockers in Stock 1 at the SPOT. The codes
 for the locks are in our WhatsApp groupchat description. You are allowed to work on the DINGO whenever you want.
@@ -55,7 +55,7 @@ But if you are not sure of something, ask someone who knows. We would like to av
 
 
 **Ressources**
----------
+--------------
 
 `Make`_ : Where you can sign up for the trainings
 
@@ -104,6 +104,7 @@ Project Leads
 ~~~~~~~~~~~~~
 * Johnan Luca  
 * Loïc Finette
+
 Members
 ~~~~~~~
 * Anaïs Espindola  
