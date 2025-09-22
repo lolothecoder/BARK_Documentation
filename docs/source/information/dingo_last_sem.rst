@@ -1,9 +1,12 @@
 What was done on DINGO?
 =======================
 
-Last semester we wanted to finish up DINGO and give it to PAWS to program. However, that failed for a multitude of reasons
-including: lack of clear tasks for team members, lack of documentations, organization, miscommunications and delays in shipments.
-This year we hope to improve. 
+Last semester, our goal was to complete DINGO and hand it over to the PAWS team for programming. Unfortunately, we encountered several challenges that prevented us from reaching that milestone. Some of the main obstacles included:
+
+* Unclear task assignments within the team
+* Insufficient documentation and organization
+* Miscommunications
+* Delays in component shipments
 
 Quick Bullet points of what we did: 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -12,5 +15,4 @@ Quick Bullet points of what we did:
 * Reprint the legs
 * Simple code on Arduino to make the legs move
 
-We lost a lot of time on the encoders. We should have just purchased servos with encoders. Or at least we should
-have built the basic DINGO first, then get it to move, then encoders.
+One major lesson was the significant time spent troubleshooting the encoders. In hindsight, purchasing servos with built-in encoders or focusing first on building a basic, moving DINGO before adding advanced features would have been more efficient.
