@@ -1,0 +1,44 @@
+Week of 27-09-2025
+==================
+
+**Mechanical Side**
+Probably found one problem for the instability:
+
+**Electronical Side**
+**RaspBerry**
+
+- **Christy**  
+
+  - Cut out the MDF board for the Arduino cable  
+  - Started ROS tutorials  
+  - Set up the Raspberry Pi
+
+- **Adam**  
+
+  - Set up the Raspberry Pi  
+  - Got the DINGO workspace running properly through Docker
+  - Want to go from ROS1 -> ROS2
+
+- **Liam**  
+
+  - Learned about the Raspberry Pi  
+  - Figured out how to wire the breakout board correctly (testing still needed)
+
+- **Maxime** 
+
+  - Printed all the parts for the clapet (still needs assembly)  
+  - Reprinted a leg and assembled it (mounting still needed)
+  - Missing springs to assemble
+
+- **Anaïs**  
+
+  - wrote the terminal test and 7segment code in arduino --> will do the tests on monday after creating connector with female XT60
+
+- **Luis** 
+
+  - Programmed the `test_stand` function (still needs to be finished)
+
+- **Loïc**  
+
+  - The fans stop working sometimes. Investigate why. Created ticket on Taiga
+  - Arduino not wired properly to read out voltage from the battery
