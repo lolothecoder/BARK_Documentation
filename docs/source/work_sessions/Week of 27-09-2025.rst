@@ -1,2 +1,3 @@
 Week of 27-09-2025
 ==================
+Anaïs: wrote the terminal test and 7segment code in arduino --> will do the tests on monday after buying the female XT60 connector
