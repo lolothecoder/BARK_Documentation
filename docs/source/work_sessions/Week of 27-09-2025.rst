@@ -1,2 +1,9 @@
 Week of 27-09-2025
 ==================
+
+* **Mechanical Side**
+Probably found one problem for the instability:
+
+
+* **Electronical Side**
+* **RaspBerry**
