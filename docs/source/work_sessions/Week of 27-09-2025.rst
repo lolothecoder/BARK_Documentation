@@ -7,3 +7,6 @@ Probably found one problem for the instability:
 
 * **Electronical Side**
 * **RaspBerry**
+
+Anaïs: wrote the terminal test and 7segment code in arduino --> will do the tests on monday after buying the female XT60 connector
+
