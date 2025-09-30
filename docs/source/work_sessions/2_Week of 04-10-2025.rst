@@ -1,2 +1,36 @@
 Week of 04.10.2025
 ==================
+
+**Members present for 29.09.2025 work session** : *Johann, Loïc, Liam, Adam, Maxime, Anaïs, Luis, Louis*
+
+**Mechanical Side**
+
+- **Johnan and Maxime**
+
+  - seem to have figured out how to get rid of the "jeu" in the legs
+  - started to create the dxf for the boxes (400*200*200 [mm])
+
+- **Louis**
+
+  - cut the plexiglass and is printing a new "back" for the robot
+
+**Electronical Side**
+
+- **Liam**
+
+  - figured out the wiring between the rpi and the breakout board. The breakout board works fine
+
+- **Anaïs**
+
+  - made a connector (but flipped the colours oups) to test out the battery voltage. We need to change your math for the resistor bridge bc the components on the board are different than from the schematic.
+
+**Software Side**
+
+- **Luis**
+
+  - is working on a calibration script for the legs
+
+- **Adam**
+
+  - trying to figure out how ot get the GUI working through docker *(hard!)*
+
