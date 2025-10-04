@@ -27,8 +27,8 @@ Important deadlines :
 ~~~~~~~~~~~~~~~~~~~~~
 
 * **12.12 : Semester Review**
-* 23.09 - 25.09 : Semaine des Assos
 * 14.11 : Swiss Robotics Day
+* 11.10 : Soldering workshop 
 
 Work Sessions
 ~~~~~~~~~~~~~
