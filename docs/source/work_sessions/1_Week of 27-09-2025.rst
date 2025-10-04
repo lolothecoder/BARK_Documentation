@@ -66,3 +66,5 @@ Week of 27.09.2025
 - **Luis** 
 
   - Programmed the `test_stand` function (still needs to be finished)
+
+.. include:: _sidebar.rst

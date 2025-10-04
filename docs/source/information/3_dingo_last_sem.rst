@@ -16,3 +16,5 @@ Quick Bullet points of what we did:
 * Simple code on Arduino to make the legs move
 
 One major lesson was the significant time spent troubleshooting the encoders. In hindsight, purchasing servos with built-in encoders or focusing first on building a basic, moving DINGO before adding advanced features would have been more efficient.
+
+.. include:: _sidebar.rst

@@ -58,3 +58,5 @@ We can see in the picture above that the green hip is not straight with the body
 
 * Make a simple walk algorithm for the DINGO on the Arduino
 * Start flashing the PI and put ROS on it. Start understanding ROS and doing simulation.
+
+.. include:: _sidebar.rst

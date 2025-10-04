@@ -14,3 +14,5 @@ They were told to try to complete the trainings as quickly as possible that way 
 They were showed the diverse Makerspaces and presented the different tools. They were also showed
 where the dog + our material is. We quickly talked about the work sessions. Johnan mentionned that Saturday 
 and Monday could be good. Loïc talked about doing a team building soon.
+
+.. include:: _sidebar.rst

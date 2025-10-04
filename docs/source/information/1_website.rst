@@ -24,3 +24,5 @@ Follow these steps to update any page of the documentation.
 
    .. image:: ../assets/website/website_4.png
       :alt: Commit and propose changes
+
+.. include:: _sidebar.rst

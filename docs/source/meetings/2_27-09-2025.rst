@@ -12,3 +12,5 @@ Everyone needs to think of some ideas for a smaller project. Johnan suggested to
 which is a cool idea. He proposed a simple device tht would track an object and move using 2 servos.
 Loïc explained to everyone how to modify the website. Everyone was explained their tasks. They have
 2 weeks to finish up what's on the First Steps Taiga board.
+
+.. include:: _sidebar.rst
