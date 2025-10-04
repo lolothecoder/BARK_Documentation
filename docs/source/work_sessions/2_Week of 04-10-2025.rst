@@ -34,3 +34,7 @@ Week of 04.10.2025
 
   - trying to figure out how ot get the GUI working through docker *(hard!)*
 
+**02.10.2025**
+
+- **Johnan**
+  - Cut and built the boxes for 3D Parts and Electronics, need to be tested.
