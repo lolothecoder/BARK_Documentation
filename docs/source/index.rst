@@ -23,12 +23,12 @@ Hey there! This is where the BARK team stores all important info. You can find i
 **Deadlines and meetings**
 --------------------------
 
-Important deadlines : 
-~~~~~~~~~~~~~~~~~~~~~
+Important deadlines/dates : 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * **12.12 : Semester Review**
 * 14.11 : Swiss Robotics Day
-* 11.10 : Soldering workshop 
+* 11.10 : No work session. Hack-a-thon
 
 Work Sessions
 ~~~~~~~~~~~~~

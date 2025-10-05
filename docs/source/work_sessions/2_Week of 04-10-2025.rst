@@ -1,9 +1,9 @@
 Week of 04.10.2025
 ==================
 
-**Members present for 29.09.2025 work session** : *Johann, Loïc, Liam, Adam, Maxime, Anaïs, Luis, Louis*
+**Members present for 04.10.2025 work session** : *Loïc, Adam, Maxime, Anaïs, Luis, Christy*
 
-**Members present for 04.10.2025 work session** : *Loïc, Liam, Adam, Maxime, Anaïs, Luis, Christy*
+**Members present for 29.09.2025 work session** : *Johann, Loïc, Liam, Adam, Maxime, Anaïs, Luis, Louis*
 
 **Mechanical Side**
 
@@ -14,8 +14,9 @@ Week of 04.10.2025
 
 - **Maxime**
 
-  - assembled the leg and verified that the jeu actually improved a lot!
-  - started printing all the other shoulders for the legs
+  - First test with the legs with less jeu seem promising
+  - Printed leg parts
+  - Printed support
 
 - **Louis**
 
@@ -30,12 +31,15 @@ Week of 04.10.2025
 - **Anaïs**
 
   - made a connector (but flipped the colours oups) to test out the battery voltage. We need to change your math for the resistor bridge bc the components on the board are different than from the schematic.
-  - validated her script to sense the voltage of the battery and it works quite well!
+  - Able to read voltage from battery on the Arduino
 
 - **Christy**
 
-  - made the voltage divider to sense the voltage on the motors.
+  - Made the voltage sensing board for the motors
 
+- **Loïc**
+
+  - Wired the breakout board to the Pi 
 
 **Software Side**
 
@@ -47,8 +51,8 @@ Week of 04.10.2025
 - **Adam**
 
   - trying to figure out how ot get the GUI working through docker *(hard!)*
-  - Got GUI to work
-  - Managed to set up the ssh with the pi 
+  - Got the GUI to work woohoo!
+  - Set up the SSH connection with the Pi.
 
 **Quality of Life**
 
