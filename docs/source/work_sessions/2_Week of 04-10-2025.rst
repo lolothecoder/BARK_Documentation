@@ -17,6 +17,13 @@ Week of 04.10.2025
   - assembled the leg and verified that the jeu actually improved a lot!
   - started printing all the other shoulders for the legs
 
+.. figure:: ../assets/BallBearingInstability2.jpg
+
+   :width: 10px
+   :align: center
+
+  
+
 - **Louis**
 
   - cut the plexiglass and is printing a new "back" for the robot
