@@ -37,6 +37,36 @@ Week of 04.10.2025
 **02.10.2025**
 
 - **Johnan**
+
   - Cut and built the boxes for 3D Parts and Electronics, need to be tested.
 
 .. include:: _sidebar.rst
+
+**Members present for 04.10.2025 work session** : *Loïc, Liam, Adam, Maxime, Anaïs, Luis, Christy*
+
+**Mechanical Side**
+
+- **Maxime**
+
+  - assembled the leg and verified that the jeu actually improved a lot!
+  - started printing all the other shoulders for the legs
+
+**Electronical Side**
+
+- **Anaïs**
+
+  - validated her script to sense the voltage of the battery and it works quite well!
+
+- **Christy**
+
+  - made the voltage divider to sense the voltage on the motors.
+
+**Software Side**
+
+- **Adam**
+
+  - managed to set up the ssh with the pi
+
+- **Luis**
+
+  -  is still working on the calibration script
