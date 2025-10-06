@@ -18,6 +18,13 @@ Week of 04.10.2025
   - Printed leg parts
   - Printed support
 
+.. figure:: ../assets/BallBearingInstability2.jpg
+
+   :width: 10px
+   :align: center
+
+  
+
 - **Louis**
 
   - cut the plexiglass and is printing a new "back" for the robot
