@@ -35,4 +35,19 @@ out the voltage.
 BARK modifications
 ------------------
 
+**Resistor bridge in the power board by Annaïs Bueno**
+
+We change the 27k resistor to a 47k. We then changed the ratio as follows:
+
+.. image:: ../assets/dingo/divider.jpeg
+   :width: 1000px
+   :align: center
+
 .. include:: _sidebar.rst
+
+|
+
+**Serial communication modification by Liam Gibbons**
+
+The UART communication between the Pi and the Arduino with GPIOs and the level shifter was way too noisy. We will use the USB protocol
+to communicate between the two. More robust.

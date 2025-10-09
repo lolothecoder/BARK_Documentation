@@ -19,11 +19,8 @@ Week of 04.10.2025
   - Printed support
 
 .. figure:: ../assets/BallBearingInstability2.jpg
-
-   :width: 10px
+   :width: 500px
    :align: center
-
-  
 
 - **Louis**
 
