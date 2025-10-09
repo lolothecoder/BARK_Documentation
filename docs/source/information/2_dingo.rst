@@ -35,7 +35,7 @@ out the voltage.
 BARK modifications
 ------------------
 
-**Resistor bridge in the power board by Annïs Bueno**
+**Resistor bridge in the power board by Anaïs Bueno**
 
 We change the 27k resistor to a 47k. We then changed the ratio as follows:
 
