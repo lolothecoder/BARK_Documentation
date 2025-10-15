@@ -26,9 +26,26 @@ Hey there! This is where the BARK team stores all important info. You can find i
 Important deadlines/dates : 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* **12.12 : Semester Review**
 * 14.11 : Swiss Robotics Day
-* 11.10 : No work session. Hack-a-thon
+* 20.11 - 21.11 : Journée des Gymansien
+* **12.12 : Semester Review**
+
+Team DINGO : 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* Loïc
+* Adam
+* Liam
+
+Team Pupper : 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* Johann
+* Louis
+* Luis
+* Christy
+* Anaïs
+* Maxime
 
 Work Sessions
 ~~~~~~~~~~~~~

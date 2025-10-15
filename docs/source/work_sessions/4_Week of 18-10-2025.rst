@@ -1,0 +1,30 @@
+Week of 18.10.2025
+==================
+
+**Members present for 06.10.2025 work session** : *Johann, Loïc, Liam, Anaïs, Luis, Louis, Christy*
+
+**Mechanical Side**
+
+- **Johnan and Maxime**
+
+  - Made the clapet and made it work woohoo!!!!!
+
+**Electronical Side**
+
+- **Luis**
+
+  - Improved wiring for LCD
+
+- **Anaïs**
+
+  - Printed properly on the LCD
+
+**Software Side**
+
+
+- **Liam**
+
+  - Managed to get the robot to stand a second time
+  - Coding the library
+
+.. include:: _sidebar.rst

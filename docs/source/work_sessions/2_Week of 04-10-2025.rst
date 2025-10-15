@@ -65,4 +65,3 @@ Week of 04.10.2025
   - Cut and built the boxes for 3D Parts and Electronics, need to be tested.
 
 .. include:: _sidebar.rst
-  

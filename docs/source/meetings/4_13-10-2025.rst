@@ -1,0 +1,15 @@
+13.10.2025
+==========
+
+**TLDR**: Let's make DINGO crouch and prepare for Pupper!
+
+**Location** : DLL
+
+**Members present** Johann, Loïc, Liam, Christy, Maxime, Anaïs, Luis, Louis
+
+Annouced that we want to have DINGO walking for swiss robotics days. During this sprint we will try
+to make him crouch. We need to figure out when we want to do our team building. We will split the team
+for when the Pupper parts come. We printed most of the Pupper parts. Johnan ordered the batteries.
+Annnouced that we will do journée des gymnasiens. 
+
+.. include:: _sidebar.rst

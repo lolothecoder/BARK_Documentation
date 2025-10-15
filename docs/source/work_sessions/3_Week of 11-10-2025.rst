@@ -44,3 +44,11 @@ Week of 11.10.2025
 
   - Managed to get the calibration script to work
   - Made the robot stand
+
+.. figure:: ../assets/stand.jpeg
+  :width: 500px
+  :align: center
+
+|
+
+.. include:: _sidebar.rst
