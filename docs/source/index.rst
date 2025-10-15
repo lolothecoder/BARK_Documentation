@@ -27,7 +27,7 @@ Important deadlines/dates :
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * 14.11 : Swiss Robotics Day
-* 20.11 - 21.11 : Journée des Gymansien
+* 20.11 - 21.11 : Journée des Gymnasiens
 * **12.12 : Semester Review**
 
 Team DINGO : 
