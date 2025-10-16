@@ -3,6 +3,8 @@ Week of 18.10.2025
 
 **Members present for 13.10.2025 work session** : *Johann, Loïc, Liam, Anaïs, Luis, Louis*
 
+**Members present for 15.10.2025 impromptu work session** : *Loïc, Liam*
+
 **Mechanical Side**
 
 - **Johnan and Maxime**
@@ -19,12 +21,20 @@ Week of 18.10.2025
 
   - Printed properly on the LCD
 
-**Software Side**
+- **Loïc**
 
+ - Validated that Christy's module does work
+
+**Software Side**
 
 - **Liam**
 
   - Managed to get the robot to stand a second time
   - Coding the library
+  - Made the crouch code 
+
+- **Loïc**
+
+ - Put Ubuntu 20.04 on the Raspberry Pi 4
 
 .. include:: _sidebar.rst
