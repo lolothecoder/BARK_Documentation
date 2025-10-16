@@ -23,7 +23,7 @@ Week of 18.10.2025
 
 - **Loïc**
 
- - Validated that Christy's module does work
+  - Validated that Christy's module does work
 
 **Software Side**
 
@@ -35,6 +35,6 @@ Week of 18.10.2025
 
 - **Loïc**
 
- - Put Ubuntu 20.04 on the Raspberry Pi 4
+  - Put Ubuntu 20.04 on the Raspberry Pi 4
 
 .. include:: _sidebar.rst
