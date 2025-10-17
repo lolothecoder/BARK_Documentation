@@ -5,11 +5,19 @@ Week of 18.10.2025
 
 **Members present for 15.10.2025 impromptu work session** : *Loïc, Liam*
 
+**Members present for 16.10.2025 impromptu work session** : *Louis*
+
+**Members present for 17.10.2025 impromptu work session** : *Johnan, Loïc, Adam*
+
 **Mechanical Side**
 
 - **Johnan and Maxime**
 
   - Made the clapet and made it work woohoo!!!!!
+
+- **Louis**
+
+  - Mounted the leg and reinforced Dingo
 
 **Electronical Side**
 
@@ -20,6 +28,11 @@ Week of 18.10.2025
 - **Anaïs**
 
   - Printed properly on the LCD
+
+- **Johnan**
+
+  - Changed the buck's wires to a bigger gauge
+  - Did some cable management and wired the motors properly
 
 - **Loïc**
 
@@ -36,5 +49,9 @@ Week of 18.10.2025
 - **Loïc**
 
   - Put Ubuntu 20.04 on the Raspberry Pi 4
+
+- **Adam**
+
+  - Made the dingo workspace work on the test setup!!!
 
 .. include:: _sidebar.rst
