@@ -40,7 +40,7 @@ Team DINGO :
 Team Pupper : 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* Johann
+* Johnan
 * Louis
 * Luis
 * Christy
