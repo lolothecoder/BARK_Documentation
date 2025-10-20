@@ -17,3 +17,4 @@ Members should respect the following rules
 4. Run `sudo poweroff` before turning off the power. This rule is to be ignored if the current is maxing out and rule 3 should be respected.
 
 .. include:: _sidebar.rst
+   
