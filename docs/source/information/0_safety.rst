@@ -15,5 +15,6 @@ Members should respect the following rules
       <b><span style="color:red;">If the current is maxing out, IMMEDIATELY shut off the power supply. Failure to do so will result in broken hardware.</span></b>
 
 4. Run `sudo poweroff` before turning off the power. This rule is to be ignored if the current is maxing out and rule 3 should be respected.
+5. Do not plug in components while the power is activated.
 
 .. include:: _sidebar.rst
