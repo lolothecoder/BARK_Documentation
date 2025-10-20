@@ -1,0 +1,15 @@
+18.10.2025
+==========
+
+**TLDR**: We are still making DINGO crouch and we are using the offcial wiring.
+
+**Location** : DLL
+
+**Members present** Johann, Loïc, Liam, Christy, Maxime, Anaïs, Luis, Louis, Adam
+
+Annouced the new work session on Thursday @ 4pm. Explained the big changes such as that we are now using the offcial wiring
+therefore the motors are receiving commands from the raspberry pi. Louis and Maxime don't have that many tasks, they will
+get more when Pupper comes. Pupper parts are supposed to come 21.10.2025. Had to break a lock for a locker since the
+code was accidentally changed. Christy had bronchitis (sad). Asked bosses about having access on the weekend to SPOT.
+
+.. include:: _sidebar.rst

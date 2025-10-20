@@ -9,6 +9,8 @@ Week of 18.10.2025
 
 **Members present for 17.10.2025 impromptu work session** : *Johnan, Loïc, Adam*
 
+**Members present for 18.10.2025 work session** : *Johnan, Loïc, Adam, Anaïs, Liam, Christy, Luis*
+
 **Mechanical Side**
 
 - **Johnan and Maxime**
@@ -33,6 +35,8 @@ Week of 18.10.2025
 
   - Changed the buck's wires to a bigger gauge
   - Did some cable management and wired the motors properly
+  - Switched the wiring to the Raspberry Pi
+  - Started working on calibration
 
 - **Loïc**
 
@@ -53,5 +57,6 @@ Week of 18.10.2025
 - **Adam**
 
   - Made the dingo workspace work on the test setup!!!
+  - Started calibrating the legs
 
 .. include:: _sidebar.rst
