@@ -7,11 +7,17 @@ Week of 25.10.2025
 
 **Members present for 20.10.2025 work session** : *Loïc, Liam*
 
+**Members present for 22.10.2025 impromptu work session** : *Loïc, Liam*
+
 **Mechanical Side**
 
 - **Liam and Loïc**
 
   - Discovered mechanical issues with legs
+
+- **Liam**
+
+  - Added nuts to reinforce the legs
 
 **Electronical Side**
 
@@ -22,6 +28,7 @@ Week of 25.10.2025
 - **Loïc**
 
   - Replaced broken motor
+  - Made Frankenstein cable for Rpi and Breakout Board
 
 **Software Side**
 
