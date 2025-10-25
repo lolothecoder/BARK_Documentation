@@ -129,7 +129,7 @@ Members
 * Louis Britton  
 * Luis Jimenez  
 * Liam Gibbons  
-* Adam Amrahni  
+* Adam Amrani  
 * Christy El Skaff  
 * Maxime Blanpain
 
