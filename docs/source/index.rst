@@ -51,7 +51,7 @@ Work Sessions
 ~~~~~~~~~~~~~
 
 * Mondays 18h - 21h
-* Thursday 16h - 18h (marketting session)
+* Thursday 16h - 18h (marketing session)
 * Saturday 11h - 17h
 
 The first 30 mins of the saturday session will be our weekly meeting. Please try to be present.

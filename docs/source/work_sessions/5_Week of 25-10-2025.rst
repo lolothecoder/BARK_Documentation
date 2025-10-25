@@ -1,5 +1,5 @@
-Week of 25.10.2025
-==================
+Week of 25.10.2025 (Break week)
+===============================
 
 **Important events of the week** : A motor broke, safety and software page were written, Pupper arrived, legs are weak
 
@@ -8,6 +8,10 @@ Week of 25.10.2025
 **Members present for 20.10.2025 work session** : *Loïc, Liam*
 
 **Members present for 22.10.2025 impromptu work session** : *Loïc, Liam*
+
+**Members present for 24.10.2025 impromptu work session** : *Loïc, Liam*
+
+**Members present for 25.10.2025 work session** : *Loïc, Liam, Luis*
 
 **Mechanical Side**
 
@@ -18,6 +22,11 @@ Week of 25.10.2025
 - **Liam**
 
   - Added nuts to reinforce the legs
+  - Printed one TPU "sock" dor Dingo's feet
+
+- **Luis**
+
+  - Made bigger holes in the wooden top plate
 
 **Electronical Side**
 
@@ -42,10 +51,11 @@ Week of 25.10.2025
   - Made the official calibration script work
   - Implemented t-bag code (to be tested)
   - Made ROS work
+  - Tested Anaïs' Battery LCD code
 
 |
 
-T-bag function
+T-bag
 --------------
 
 .. video:: ../assets/tbag.mp4
@@ -53,10 +63,18 @@ T-bag function
 
 |
 
-Trot function
+Trot
 --------------
 
 .. video:: ../assets/trot.mp4
+  :align: center
+
+|
+
+Battery Display
+---------------
+
+.. video:: ../assets/BatteryDisplay.mp4
   :align: center
 
 .. include:: _sidebar.rst

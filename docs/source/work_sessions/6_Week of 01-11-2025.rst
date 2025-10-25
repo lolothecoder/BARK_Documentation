@@ -1,0 +1,6 @@
+Week of 01.11.2025
+==================
+
+Go team go!
+
+.. include:: _sidebar.rst
