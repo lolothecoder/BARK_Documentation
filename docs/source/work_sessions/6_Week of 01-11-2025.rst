@@ -1,6 +1,19 @@
 Week of 01.11.2025
 ==================
 
-Go team go!
+**Important events of the week** : We have the wrong battery for Pupper. We bought the good one
+
+**Mechanical Side**
+
+- Most of Pupper is built.
+- Swapping a motor for DINGO
+
+**Electronical Side**
+
+- Most of Pupper is built.
+
+**Software Side**
+
+- Successfully tested Pupper camera, ai accelerator, speaker
 
 .. include:: _sidebar.rst

@@ -1,0 +1,12 @@
+01.11.2025
+==========
+
+**TLDR**: Recap of the break week (mainly work that was done on DINGO)
+
+**Location** : DLL
+
+**Members present** : Anaïs, Adam, Christy, Liam, Maxime, Loïc, Johnan, Louis, Luis
+
+Talke about team building, About the future events that we have coming up. Anaïs s going to help on DINGO. Luis will start with ROS. Adam will help with ROS on pupper.
+
+.. include:: _sidebar.rst

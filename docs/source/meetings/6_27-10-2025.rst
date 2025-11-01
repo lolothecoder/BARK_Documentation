@@ -1,20 +1,16 @@
 27.10.2025
 ==========
 
-**TLDR**:
+**TLDR**: Recap of the break week (mainly work that was done on DINGO)
 
 **Location** : DLL
 
-**Members present**
+**Members present** : I forgot oops
 
 Things to talk about
 ~~~~~~~~~~~~~~~~~~~~
 
-* Reminder of new work session
-* Safety page
-* Progress on DINGO
-* DINGO ROS demo
-* New sprint planning + Pupper organization
-* Team building
+Explained to everyone that we have a new work session on Thursday. Reminded everyone about safety with the motors. Explained progress on DINGO.
+Explained that we are starting Pupper
 
 .. include:: _sidebar.rst
