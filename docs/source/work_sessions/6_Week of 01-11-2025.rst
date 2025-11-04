@@ -6,7 +6,7 @@ Week of 01.11.2025
 **Mechanical Side**
 
 - Most of Pupper is built.
-- Swapping a motor for DINGO
+- Swapped a motor for DINGO
 
 **Electronical Side**
 
@@ -15,5 +15,14 @@ Week of 01.11.2025
 **Software Side**
 
 - Successfully tested Pupper camera, ai accelerator, speaker
+- Tested crouch code on Dingo (struggled a bit because of bad motor)
+
+Crouch
+------
+
+.. video:: ../assets/crouch.mp4
+  :align: center
+
+|
 
 .. include:: _sidebar.rst
