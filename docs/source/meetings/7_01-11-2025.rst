@@ -7,6 +7,6 @@
 
 **Members present** : Anaïs, Adam, Christy, Liam, Maxime, Loïc, Johnan, Louis, Luis
 
-Talke about team building, About the future events that we have coming up. Anaïs s going to help on DINGO. Luis will start with ROS. Adam will help with ROS on pupper.
+Talk about team building, About the future events that we have coming up. Anaïs s going to help on DINGO. Luis will start with ROS. Adam will help with ROS on pupper.
 
 .. include:: _sidebar.rst
