@@ -1,0 +1,16 @@
+Week of 15.11.2025
+==================
+
+**Important events of the week** : DINGO kind of walked, Pupper walked!
+
+**Mechanical Side**
+
+- Dingo has been solidified
+
+**Electronical Side**
+
+- Christy remade a connector we lost
+
+**Software Side**
+
+.. include:: _sidebar.rst
