@@ -1,16 +1,29 @@
 Week of 15.11.2025
 ==================
 
-**Important events of the week** : DINGO kind of walked, Pupper walked!
+**Important events of the week** : Swiss Robotics Day!
 
 **Mechanical Side**
 
 - Dingo has been solidified
+- New legs have been printed
+- Stronger Pupper Stand has been printed
 
 **Electronical Side**
 
 - Christy remade a connector we lost
 
 **Software Side**
+
+- DINGO can move with Logitech joystick
+- Liam said to investigate SPI checksum error. He lowered the frequency.
+
+Pupper walking with Liam's algorithm
+------------------------------------
+
+.. video:: ../assets/ouralgo.mp4
+  :align: center
+
+|
 
 .. include:: _sidebar.rst
