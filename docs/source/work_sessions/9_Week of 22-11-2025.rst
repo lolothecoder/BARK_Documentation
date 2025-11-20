@@ -1,0 +1,8 @@
+Week of 22.11.2025
+==================
+
+**Important events of the week** : Journée des Gymansiens! Chill week
+
+Relax!
+
+.. include:: _sidebar.rst
