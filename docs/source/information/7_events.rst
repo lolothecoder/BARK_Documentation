@@ -46,7 +46,11 @@ Swiss Robotics Day (14.11.2025)
 
 .. video:: ../assets/SRD/recap.mp4
   :width: 500
-  :align: center
+
+|
+
+.. video:: ../assets/SRD/promotional.mp4
+  :width: 500
 
 |
 

@@ -17,6 +17,7 @@ Week of 15.11.2025
 
 - DINGO can move with Logitech joystick
 - Liam said to investigate SPI checksum error. He lowered the frequency.
+- DINGO and Pupper can operate without wifi
 
 Pupper walking with Liam's algorithm
 ------------------------------------
