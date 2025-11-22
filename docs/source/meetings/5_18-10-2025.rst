@@ -11,5 +11,3 @@ Annouced the new work session on Thursday @ 4pm. Explained the big changes such 
 therefore the motors are receiving commands from the raspberry pi. Louis and Maxime don't have that many tasks, they will
 get more when Pupper comes. Pupper parts are supposed to come 21.10.2025. Had to break a lock for a locker since the
 code was accidentally changed. Christy had bronchitis (sad). Asked bosses about having access on the weekend to SPOT.
-
-.. include:: _sidebar.rst

@@ -20,5 +20,3 @@ od a soldeing workshop next weekend. Since there is a Hack-a-thon next weekend w
 on Saturday. Members seem to not have access to SPOT so we need to check with Krish or Carlos about that.
 Most members are continuing their tasks. New tasks assigned are for Louis to work on the beginning project,
 Christy to work on the new resistor bridge, Liam to work on the 7 segment.
-
-.. include:: _sidebar.rst

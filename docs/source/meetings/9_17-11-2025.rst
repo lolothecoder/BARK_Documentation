@@ -8,12 +8,10 @@
 **Members present** : Everyone
 SRD was cool! People volunteered to be present for journée des gymnasiens. Talked about the future of BARK. Here are our next steps:
 
-- Fix DINGO
-- Fix Pupper
-- Do ROS tutorial
-- Get sponsorships
-- Kit
-- New dog
-- Bras 
-
-.. include:: _sidebar.rst
+* Fix DINGO
+* Fix Pupper
+* Do ROS tutorial
+* Get sponsorships
+* Kit
+* New dog
+* Bras 

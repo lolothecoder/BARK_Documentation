@@ -11,5 +11,3 @@ Annouced that we want to have DINGO walking for swiss robotics days. During this
 to make him crouch. We need to figure out when we want to do our team building. We will split the team
 for when the Pupper parts come. We printed most of the Pupper parts. Johnan ordered the batteries.
 Annnouced that we will do journée des gymnasiens. 
-
-.. include:: _sidebar.rst

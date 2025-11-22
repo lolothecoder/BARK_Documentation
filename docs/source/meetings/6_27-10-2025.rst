@@ -12,5 +12,3 @@ Things to talk about
 
 Explained to everyone that we have a new work session on Thursday. Reminded everyone about safety with the motors. Explained progress on DINGO.
 Explained that we are starting Pupper
-
-.. include:: _sidebar.rst

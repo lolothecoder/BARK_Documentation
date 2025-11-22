@@ -39,7 +39,3 @@ Pupper first steps
 
 .. video:: ../assets/pupper_steps.mp4
   :align: center
-
-|
-
-.. include:: _sidebar.rst

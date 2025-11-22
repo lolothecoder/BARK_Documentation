@@ -22,7 +22,3 @@ Crouch
 
 .. video:: ../assets/crouch.mp4
   :align: center
-
-|
-
-.. include:: _sidebar.rst

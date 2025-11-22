@@ -76,5 +76,3 @@ Battery Display
 
 .. video:: ../assets/BatteryDisplay.mp4
   :align: center
-
-.. include:: _sidebar.rst

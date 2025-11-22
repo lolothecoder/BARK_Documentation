@@ -1,0 +1,13 @@
+22.11.2025
+==========
+
+**TLDR**: Started seriously talking about the arm and set priorities for EOS
+
+**Location** : DLL
+
+**Members present** : Everyone except Christy (sad)
+
+We said we should focus on making a dog that has a good amount of compute for the FETCH and PAWS. We will implement Johnan's
+plan for the gripper. The kit is starting to become a priority. Loïc might get on that.
+
+.. include:: _sidebar.rst

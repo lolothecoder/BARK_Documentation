@@ -48,7 +48,3 @@ Week of 11.10.2025
 .. figure:: ../assets/stand.jpeg
   :width: 500px
   :align: center
-
-|
-
-.. include:: _sidebar.rst

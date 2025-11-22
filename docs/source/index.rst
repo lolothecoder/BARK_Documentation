@@ -137,6 +137,5 @@ Members
 
    This project is under active development.
 
-
 .. include:: _sidebar.rst
 

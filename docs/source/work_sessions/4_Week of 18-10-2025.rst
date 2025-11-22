@@ -58,5 +58,3 @@ Week of 18.10.2025
 
   - Made the dingo workspace work on the test setup!!!
   - Started calibrating the legs
-
-.. include:: _sidebar.rst

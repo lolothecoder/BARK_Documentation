@@ -9,5 +9,3 @@
 
 Talked about SRD, we will be able to bring most of the team at the stand! We asked about wifi and screens at our stand. We need to get our merch. Johnan
 proposed that we work in seperate groups for ROS. Still need to figure out how to make DINGO more stable
-
-.. include:: _sidebar.rst

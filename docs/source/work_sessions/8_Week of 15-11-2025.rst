@@ -24,7 +24,3 @@ Pupper walking with Liam's algorithm
 
 .. video:: ../assets/ouralgo.mp4
   :align: center
-
-|
-
-.. include:: _sidebar.rst
