@@ -1,0 +1,19 @@
+07.03.2026
+==========
+
+**TLDR**: First tasks are asigned. We want to build a test leg
+
+**Location** : DLL
+
+The members have been split in their respective teams. We will first focus on building a test leg and a test setup. The main goals for each teams are as follows:
+
+**Team Mecha**
+- Design first leg
+- Design Test setup for the leg
+
+**Team Elect**
+- Create simple Test PCB
+
+**Team Software**
+- Figure out what we need to flash the motors
+- Create simple test code for motors

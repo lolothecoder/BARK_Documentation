@@ -1,0 +1,65 @@
+Week of 04.10.2025
+==================
+
+**Members present for 04.10.2025 work session** : *Loïc, Adam, Maxime, Anaïs, Luis, Christy*
+
+**Members present for 29.09.2025 work session** : *Johann, Loïc, Liam, Adam, Maxime, Anaïs, Luis, Louis*
+
+**Mechanical Side**
+
+- **Johnan and Maxime**
+
+  - seem to have figured out how to get rid of the "jeu" in the legs
+  - started to create the dxf for the boxes (400*200*200 [mm])
+
+- **Maxime**
+
+  - First test with the legs with less jeu seem promising
+  - Printed leg parts
+  - Printed support
+
+.. figure:: /assets/BallBearingInstability2.jpg
+   :width: 500px
+   :align: center
+
+- **Louis**
+
+  - cut the plexiglass and is printing a new "back" for the robot
+
+**Electronical Side**
+
+- **Liam**
+
+  - figured out the wiring between the rpi and the breakout board. The breakout board works fine
+
+- **Anaïs**
+
+  - made a connector (but flipped the colours oups) to test out the battery voltage. We need to change your math for the resistor bridge bc the components on the board are different than from the schematic.
+  - Able to read voltage from battery on the Arduino
+
+- **Christy**
+
+  - Made the voltage sensing board for the motors
+
+- **Loïc**
+
+  - Wired the breakout board to the Pi 
+
+**Software Side**
+
+- **Luis**
+
+  - is working on a calibration script for the legs
+  -  is still working on the calibration script
+
+- **Adam**
+
+  - trying to figure out how ot get the GUI working through docker *(hard!)*
+  - Got the GUI to work woohoo!
+  - Set up the SSH connection with the Pi.
+
+**Quality of Life**
+
+- **Johnan**
+
+  - Cut and built the boxes for 3D Parts and Electronics, need to be tested.

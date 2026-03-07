@@ -15,5 +15,3 @@ For the Labs, click the links below, it would bring you to the official Standfor
 
 Each lab is divided per week and it teaches you the basics of ROS and Inverse Kinematics. The labs are meant for gorups of 2 to 3 peoples, since we have just one dog, try your best to give to everyone the possibility to work on it and to test their own code :).
 
-.. include:: _sidebar.rst
-

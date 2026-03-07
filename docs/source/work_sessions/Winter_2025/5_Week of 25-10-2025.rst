@@ -1,0 +1,78 @@
+Week of 25.10.2025 (Break week)
+===============================
+
+**Important events of the week** : A motor broke, safety and software page were written, Pupper arrived, legs are weak
+
+**Members present for 19.10.2025 impromptu work session** : *Loïc, Anaïs*
+
+**Members present for 20.10.2025 work session** : *Loïc, Liam*
+
+**Members present for 22.10.2025 impromptu work session** : *Loïc, Liam*
+
+**Members present for 24.10.2025 impromptu work session** : *Loïc, Liam*
+
+**Members present for 25.10.2025 work session** : *Loïc, Liam, Luis*
+
+**Mechanical Side**
+
+- **Liam and Loïc**
+
+  - Discovered mechanical issues with legs
+
+- **Liam**
+
+  - Added nuts to reinforce the legs
+  - Printed one TPU "sock" dor Dingo's feet
+
+- **Luis**
+
+  - Made bigger holes in the wooden top plate
+
+**Electronical Side**
+
+- **Johnan**
+
+  - Ordered new motors
+
+- **Loïc**
+
+  - Replaced broken motor
+  - Made Frankenstein cable for Rpi and Breakout Board
+
+**Software Side**
+
+- **Liam**
+
+  - Worked on crouch function
+
+- **Loïc**
+
+  - Created script to calibrate one motor at a time
+  - Made the official calibration script work
+  - Implemented t-bag code (to be tested)
+  - Made ROS work
+  - Tested Anaïs' Battery LCD code
+
+|
+
+T-bag
+--------------
+
+.. video:: ../../assets/tbag.mp4
+  :align: center
+
+|
+
+Trot
+--------------
+
+.. video:: ../../assets/trot.mp4
+  :align: center
+
+|
+
+Battery Display
+---------------
+
+.. video:: ../../assets/BatteryDisplay.mp4
+  :align: center

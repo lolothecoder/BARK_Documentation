@@ -16,16 +16,12 @@ Steps to build the Arm
 
 Building Plan
 -------------
-.. image:: ../assets/arm/BuildingPlan.png
+.. image:: /assets/arm/BuildingPlan.png
    :width: 800px
 
 |
 
 Wiring Plan
 -----------
-.. image:: ../assets/arm/wiringArm.png
+.. image:: /assets/arm/wiringArm.png
    :width: 800px
-
-|
-
-.. include:: _sidebar.rst

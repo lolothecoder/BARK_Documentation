@@ -1,7 +1,7 @@
 Welcome to EPFL AI TEAM's BARK documentation!
 =============================================
 
-Hey there! This is where the BARK team stores all important info. You can find important ressources here and the logs of the work session and the notes of the meeting. For the 2025 - 2026 academic year, our goal is to finish the DINGO robot dog and build the Pupper V3. 
+Hey there! This is where the BARK team stores all important info. You can find important ressources here and the logs of the work session and the notes of the meeting. For the 2025 - 2026 academic year, our goal is to finish the DINGO robot dog and build the Pupper V3 and start designing our custom dog: BYTE.  
 
 .. list-table::
    :widths: 50 50
@@ -23,45 +23,48 @@ Hey there! This is where the BARK team stores all important info. You can find i
 **Deadlines and meetings**
 --------------------------
 
-Important deadlines/dates : 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+* 22.08.2026: Robovaly Stand
 
-* 14.11 : Swiss Robotics Day
-* 20.11 - 21.11 : Journée des Gymnasiens
-* **12.12 : Semester Review**
+**Main Tasks**
+--------------
 
-Team DINGO : 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Team Mecha : 
+~~~~~~~~~~~~
 
-* Loïc
-* Adam
-* Liam
-
-Team Pupper : 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-* Johnan
 * Louis
-* Luis
+* Killian
+* Rayane
+* Paul
 * Christy
-* Anaïs
+
+Team Elect : 
+~~~~~~~~~~~~
+
 * Maxime
+* Anaïs
+
+Team Software : 
+~~~~~~~~~~~~~~~
+
+* Alexandros
+* Salah
+* Liam
 
 Work Sessions
 ~~~~~~~~~~~~~
 
 * Mondays 18h - 21h
-* Thursday 16h - 18h (marketing session)
-* Saturday 11h - 17h
+* Friday 18h - 21h
+* Saturday 11h - 18h
 
 The first 30 mins of the saturday session will be our weekly meeting. Please try to be present.
 If you can't be present to a work session please inform Johnan or Loïc in advance!
 
-**Accessing the DINGO**
------------------------
+**Accessing DINGO/Pupper/Matos**
+--------------------------------
 
-At the moment, we are keeping the DINGO and the parts in 2 lockers in Stock 1 at the SPOT. The codes
-for the locks are in our WhatsApp groupchat description. You are allowed to work on the DINGO whenever you want.
+At the moment, we are keeping the DINGO/Pupper and the parts in 4 lockers in Stock 1 at the SPOT. The codes
+for the locks are in our WhatsApp groupchat description. You are allowed to work on the DINGO / Pupper whenever you want.
 But if you are not sure of something, ask someone who knows. We would like to avoid breaking things.
 
 
@@ -99,9 +102,9 @@ But if you are not sure of something, ask someone who knows. We would like to av
 
 .. _Our Github Repo: https://github.com/EPFL-AI-Team/BARK
 
-`Taiga`_ : Where tasks are assigned
+`Github Tasks Management`_ : Where tasks are assigned
 
-.. _Taiga: https://taiga.io/
+.. _Github Tasks Management: https://github.com/orgs/EPFL-AI-Team/projects/13
 
 `DINGO repo`_ : The code and explanation of the DINGO
 
@@ -116,7 +119,8 @@ But if you are not sure of something, ask someone who knows. We would like to av
 
 Robotics Track Lead
 ~~~~~~~~~~~~~~~~~~~
-* Carlos Hurtado
+* Adam Mesbahi Amrani
+* Krish Chawla
 
 Project Leads
 ~~~~~~~~~~~~~
@@ -127,15 +131,64 @@ Members
 ~~~~~~~
 * Anaïs Espindola  
 * Louis Britton  
-* Luis Jimenez  
+* Rayane Zouagui
 * Liam Gibbons  
-* Adam Amrani  
+* Killian Didierjean
 * Christy El Skaff  
 * Maxime Blanpain
+* Alexandros Dellios
+* Salah Hasnaoui
+* Paul de Courville
 
 .. note::
 
    This project is under active development.
 
-.. include:: _sidebar.rst
+.. toctree::
+   :maxdepth: 2
+   :caption: Meetings
+   :hidden:
 
+   /meetings/0_index
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Work Sessions
+   :hidden:
+   :glob:
+
+   /work_sessions/*
+
+.. toctree::
+   :maxdepth: 1
+   :caption: General Info
+   :hidden:
+
+   /information/0_safety
+   /information/7_events
+   /information/5_website
+
+.. toctree::
+   :maxdepth: 1
+   :caption: DINGO Robot
+   :hidden:
+
+   /information/3_dingo
+   /information/1_DINGO_Software_setup
+   /information/4_dingo_last_sem
+   /information/6_diagnosis
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Pupper & Arm
+   :hidden:
+
+   /information/2_Pupper_Software_setup
+   /information/8_arm
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Project Byte
+   :hidden:
+
+   /information/9_newdog

@@ -186,4 +186,4 @@ If you followed the steps correclty, arduino-clli should look for the libraries 
 
 Thus, if you need to add specific libraries etc, add them there
 
-.. include:: _sidebar.rst
+.. include:: /_sidebar.rst

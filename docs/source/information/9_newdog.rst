@@ -17,5 +17,3 @@ Electrical requirement
 	- AI accelerator (GPU)
 	- IMU
 	- Screen
-
-.. include:: _sidebar.rst

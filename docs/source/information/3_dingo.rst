@@ -3,7 +3,7 @@ What's in a DINGO?
 
 Power wiring
 ------------
-.. image:: ../assets/dingo/power.png
+.. image:: /assets/dingo/power.png
    :width: 1000px
    :align: center
 
@@ -20,7 +20,7 @@ There are extra connections on the PCB to eventually power new modules.
 
 Communications wiring
 ---------------------
-.. image:: ../assets/dingo/communications.png
+.. image:: /assets/dingo/communications.png
    :width: 1000px
    :align: center
 
@@ -39,7 +39,7 @@ BARK modifications
 
 We change the 27k resistor to a 47k. We then changed the ratio as follows:
 
-.. image:: ../assets/dingo/divider.jpeg
+.. image:: /assets/dingo/divider.jpeg
    :width: 1000px
    :align: center
 
@@ -49,5 +49,3 @@ We change the 27k resistor to a 47k. We then changed the ratio as follows:
 
 The UART communication between the Pi and the Arduino with GPIOs and the level shifter was way too noisy. We will use the USB protocol
 to communicate between the two. More robust.
-
-.. include:: _sidebar.rst

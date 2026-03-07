@@ -1,0 +1,24 @@
+Week of 01.11.2025
+==================
+
+**Important events of the week** : We have the wrong battery for Pupper. We bought the good one
+
+**Mechanical Side**
+
+- Most of Pupper is built.
+- Swapped a motor for DINGO
+
+**Electronical Side**
+
+- Most of Pupper is built.
+
+**Software Side**
+
+- Successfully tested Pupper camera, ai accelerator, speaker
+- Tested crouch code on Dingo (struggled a bit because of bad motor)
+
+Crouch
+------
+
+.. video:: ../../assets/crouch.mp4
+  :align: center

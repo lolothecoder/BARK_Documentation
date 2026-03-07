@@ -1,0 +1,17 @@
+End of Semester
+===============
+
+Where we ended up with for DINGO
+--------------------------------
+
+.. video:: ../../assets/dingo/final_dingo.mp4
+  :align: center
+
+|
+
+What we ended up with for Pupper
+--------------------------------
+
+.. video:: ../../assets/final_pupper.mp4
+  :align: center
+
