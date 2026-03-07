@@ -20,8 +20,8 @@ Hey there! This is where the BARK team stores all important info. You can find i
 
           Pupper V3
 
-**Deadlines and meetings**
---------------------------
+**Important dates**
+-------------------
 
 * 22.08.2026: Robovaly Stand
 
