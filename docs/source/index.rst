@@ -23,6 +23,7 @@ Hey there! This is where the BARK team stores all important info. You can find i
 **Important dates**
 -------------------
 
+* 23.05.2026: XRC presentation
 * 22.08.2026: Robovaly Stand
 
 **Main Tasks**
