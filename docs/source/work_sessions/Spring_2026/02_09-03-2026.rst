@@ -1,0 +1,16 @@
+Week of 09.03.2023
+==================
+
+Loïc + Johnan ordered Jetson Orin Nano, 2 x 6s batteries, 2 x USB to CAN adapter, 4 x GIM8108-8 motors
+
+**Team Software**
+
+
+**Team Elect**
+
+- Anaïs continued working on Schematics
+- Loïc wrote requirements for Power Distribution Board (PDBueno)
+
+**Team Mecha**
+
+- Paul working on the Dummy Leg
