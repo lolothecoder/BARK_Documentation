@@ -193,3 +193,4 @@ Members
    :hidden:
 
    /information/9_newdog
+   /information/Electronics
