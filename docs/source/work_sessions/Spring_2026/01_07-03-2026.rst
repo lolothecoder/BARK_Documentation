@@ -12,7 +12,8 @@ Loïc + Johnan brainstormed on inital parts to buy and how to make the system
 
 - Maxime and Anaïs following tutorials
 - Anaïs started thinking on designing a simple power PCB
+- Board requirements have been defined and discussed
 
 **Team Mecha**
 - Killian and Christy started designing the test setup.
-- Rayane working on the leg
+- Rayane + Paul + Louis working on the leg. They want to have the motors closer to the body
