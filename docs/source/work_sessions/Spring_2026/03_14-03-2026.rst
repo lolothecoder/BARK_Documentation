@@ -1,0 +1,24 @@
+Week of 14.03.2023
+==================
+
+Loïc + Johnan ordered Test Setup parts + USB Mic + Containers + Locks.
+
+**Miscellaneous**
+
+
+**Team Software**
+
+- Got CAN working with 2 adapters
+
+**Team Elect**
+
+- Requirements for PDBuenno have been defined
+- Maxime added the footprints to the parts
+- Johnan will do the routing
+- We will need a CAN board
+
+**Team Mecha**
+
+- Killian and Christy mainly finished the design of the test setup
+- Killian will work on a version of the leg
+- Killian did BOM for test setup
