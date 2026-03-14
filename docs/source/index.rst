@@ -24,6 +24,7 @@ Hey there! This is where the BARK team stores all important info. You can find i
 -------------------
 
 * 23.05.2026: XRC presentation
+* 28.05.2026: Vivapoly Stand
 * 22.08.2026: Robovaly Stand
 
 **Main Tasks**
