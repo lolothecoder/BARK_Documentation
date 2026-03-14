@@ -58,3 +58,11 @@ The goal of the test setup is to be able to test the 3 DOF of a leg
    :align: center
 
 |
+
+BOM for the Test Setup:
+
+.. image:: /assets/byte_research/test_setup_bom.png
+   :width: 800px
+   :align: center
+
+|
