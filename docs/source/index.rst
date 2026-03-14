@@ -194,3 +194,5 @@ Members
 
    /information/9_newdog
    /information/Electronics
+   /information/Software
+   /information/Mechanics
