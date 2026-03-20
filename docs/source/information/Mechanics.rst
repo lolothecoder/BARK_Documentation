@@ -59,6 +59,18 @@ The goal of the test setup is to be able to test the 3 DOF of a leg
 
 |
 
+Update of the test setup by Killian:
+
+Updated @ChristyElSkaff 's design to use 2020 v-slot profiles and set the height of the rig to 1m high following the stand up meeting discussion, next we will need to update the top plate design to fit all the electronics and the weights as well as design the attachement plate that will hold the leg once the leg team will have an approximate design.
+
+The rigidity of the rig may be an issue due to the height, in which case we will do a secondary arch to make it into a box design, we should have the necessary materials to do so with the list of parts I sent to @lolothecoder today.
+
+.. image:: /assets/byte_research/testv2.png
+   :width: 500px
+   :align: center
+
+|
+
 BOM for the Test Setup:
 
 .. image:: /assets/byte_research/test_setup_bom.png
@@ -66,3 +78,4 @@ BOM for the Test Setup:
    :align: center
 
 |
+

@@ -42,3 +42,20 @@ Routing Considerations
  * The motors shall be wired with a 16 AWG wire. 16 AWG wire is rated for 18A which is well over the continuous 7A current of the motors
  * The motors shall be connected to the PCBueno with an XT30 connector
 
+*The final version of the board:*
+
+Front view:
+
+.. image:: /assets/byte_research/PDBueno_front.png
+   :width: 500px
+   :align: center
+
+|
+
+Back view:
+
+.. image:: /assets/byte_research/PDBueno_back.png
+   :width: 500px
+   :align: center
+
+|

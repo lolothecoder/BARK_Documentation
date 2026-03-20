@@ -1,24 +1,31 @@
 Week of 14.03.2023
 ==================
 
-Loïc + Johnan ordered Test Setup parts + USB Mic + Containers + Locks.
-
 **Miscellaneous**
 
+- Loïc + Johnan ordered Test Setup parts + USB Mic + Containers + Locks. [arrived]
+- Missing Gantry Plates for the test setup
+- Motors Arrived!
+- Wires and connectors have arrived
+- More connectors + Matek Buck + Flux + Soldering iron + Emergency stop have been ordered
 
 **Team Software**
 
 - Got CAN working with 2 adapters
+- Liam figured out we need to buy credits for Pupper
 
 **Team Elect**
 
-- Requirements for PDBuenno have been defined
+- Requirements for PDBueno have been defined
 - Maxime added the footprints to the parts
 - Johnan will do the routing
 - We will need a CAN board
+- CAN section was integrated in PDBueno
+- PDBueno ordered
 
 **Team Mecha**
 
 - Killian and Christy mainly finished the design of the test setup
 - Killian will work on a version of the leg
 - Killian did BOM for test setup
+- Test setup was redesigned
