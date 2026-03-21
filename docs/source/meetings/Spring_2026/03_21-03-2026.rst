@@ -1,0 +1,14 @@
+21.03.2026
+==========
+
+**TLDR**: First Sprint over. The key achievements were creating PDBueno, creating first version of a leg and creating a test setup for the leg 
+
+**Location** : DLL
+
+* Killian will begin building the Test Setup this week
+* Christy will work on making a case for PDBueno 
+* PDBueno will be shipped 26.03.2026
+* Liam will keep working on Pupper LLM
+* 2 DOF leg made for Byte
+* Software team will flash motors + Jetson
+* Mecha team will keep working on the leg

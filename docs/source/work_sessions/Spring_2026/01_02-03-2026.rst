@@ -1,0 +1,17 @@
+Week of 02.03.2023
+==================
+
+Loïc + Johnan brainstormed on inital parts to buy and how to make the system
+
+**Team Software**
+
+- Alexandros and Salah mentionned that we should get multiple USB to CAN adapter and they would like to get them ASAP. They would also require a Jetson.
+- Liam working on the LLM for pupper
+
+**Team Elect**
+
+- Maxime and Anaïs following tutorials
+- Anaïs started thinking on designing a simple power PCB
+
+**Team Mecha**
+- Killian and Christy started designing the test setup.

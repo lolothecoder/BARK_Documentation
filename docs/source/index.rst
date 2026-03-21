@@ -108,6 +108,10 @@ But if you are not sure of something, ask someone who knows. We would like to av
 
 .. _Github Tasks Management: https://github.com/orgs/EPFL-AI-Team/projects/13
 
+`PCB Boards repo`_ : The hardware design and electronics files
+
+.. _PCB Boards repo: https://github.com/JohnanLuca02/BYTE_Electronics/tree/main
+
 `DINGO repo`_ : The code and explanation of the DINGO
 
 .. _DINGO repo: https://github.com/Yerbert/DingoQuadruped

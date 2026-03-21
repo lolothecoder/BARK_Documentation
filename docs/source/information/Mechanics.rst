@@ -42,6 +42,21 @@ The legs should have three degrees of freedom. There are a few ideas to explore 
 
 |
 
+First Iteration
+---------------
+
+.. image:: /assets/byte_research/byte_leg_v1.png
+   :width: 500px
+   :align: center
+
+|
+
+.. video:: /assets/byte_research/byte_leg_v1_animation.mp4
+  :width: 80%
+  :align: center
+
+|
+
 Test Setup
 ----------
 
