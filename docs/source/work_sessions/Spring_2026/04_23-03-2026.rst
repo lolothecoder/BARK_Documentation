@@ -4,14 +4,15 @@ Week of 23.03.2026
 **Miscellaneous**
 
 - Flux + soldering iron + Button arrived
-- Carbon fibre tubes arrived
+- Carbon fibre tubes ordered
 - More battery need to be ordered
 
 **Team Software**
 
-- Figured out how ot get hte motors spinning
+- Figured out how to get the motors spinning
 - Flashed the Jetson
 - Made the LLM work on Pupper
+- Figured out CAN communication with a motor
 
 
 **Team Elect**
@@ -24,13 +25,25 @@ Week of 23.03.2026
 - First leg prototype designed
 - First leg prototype built
 
+**Our first leg**
+
 .. image:: /assets/byte_research/Leg_fun.jpeg
    :width: 500px
    :align: center
 
 |
 
+**Pupper LLM**
+
 .. video:: /assets/PupperLLM.mp4
+  :width: 80%
+  :align: center
+
+|
+
+**CAN Communication**
+
+.. video:: /assets/byte_research/CAN_comm.mp4
   :width: 80%
   :align: center
 
