@@ -1,4 +1,37 @@
 Week of 23.03.2026
 ==================
 
-Coming Soon!
+**Miscellaneous**
+
+- Flux + soldering iron + Button arrived
+- Carbon fibre tubes arrived
+- More battery need to be ordered
+
+**Team Software**
+
+- Figured out how ot get hte motors spinning
+- Flashed the Jetson
+- Made the LLM work on Pupper
+
+
+**Team Elect**
+
+- PDBueno was shipped
+- Cables for the motors were manufactured
+
+**Team Mecha**
+
+- First leg prototype designed
+- First leg prototype built
+
+.. image:: /assets/byte_research/Leg_fun.jpeg
+   :width: 500px
+   :align: center
+
+|
+
+.. video:: /assets/PupperLLM.mp4
+  :width: 80%
+  :align: center
+
+|
