@@ -63,7 +63,7 @@ Make sure the button is in the "ON" configuration
 
 **Step 4**
 
-Plug in the yellow anti-spark connector about 1/4 of the way in to the PDBueno to charge the capacitors. The light on the buck should turn on and you should see the voltage stabilize on the multimeter.
+Plug in the yellow anti-spark connector about 1/4 of the way in to the PDBueno to charge the capacitors (about 10 seconds). The light on the buck should turn on and you should see the voltage stabilize on the multimeter.
 
 **Step 5**
 
