@@ -71,4 +71,14 @@ Fully plug in the yellow anti-spark connector and the device is ready to use.
 
 **Nota Bene**
 
-If ever there is an issue, turn the red button to the OFF position. After having done so, wait for capacitors to discharge (about 90 seconds) and disconnect the yellow anti-spark connector. If you wish to turn on the system again, repeat from Step 3.
+If ever there is an issue, turn the red button to the OFF position. After having done so, wait for the capacitors to discharge (about 90 seconds) and disconnect the yellow anti-spark connector. If you wish to turn on the system again, repeat from Step 3.
+
+Connecting to the Jetson
+~~~~~~~~~~~~~~~~~~~~~~~~
+To connect to the Jetson, first make sure you are connected to the ``spot-iot`` Wi-Fi network, then run:
+
+.. code-block:: bash
+
+   ssh byte@172.21.67.198
+
+The password is ``woof1234*``.
