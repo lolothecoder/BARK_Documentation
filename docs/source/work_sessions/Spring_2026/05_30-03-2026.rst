@@ -3,10 +3,58 @@ Week of 30.03.2026
 
 **Miscellaneous**
 
+* Got parts  cut and milled for the test setup
+
 **Team Software**
 
+* Jetson has been flashed
+* Basic code for spinning a motor has been done
+
+.. video:: /assets/byte_research/motors_spinning.mp4
+  :width: 80%
+  :align: center
+
+* Liam made a first version of YOLO work on pupper
+* Basic code to test out leg position controlled has been created
+
+.. video:: /assets/byte_research/leg_carbon.mp4
+  :width: 80%
+  :align: center
 
 **Team Elect**
 
+* Cables for PDBueno have been manufactured
+* PDBueno arrived and passed initial tests
+
+.. image:: /assets/byte_research/real_pdbueno.jpeg
+   :width: 500px
+   :align: center
+
+|
+
+* Learned that should be careful with PDBueno
+
+.. image:: /assets/byte_research/kaboom.jpg
+   :width: 500px
+   :align: center
+
+|
+
 **Team Mecha**
 
+* First case for PDBueno has been created
+* Test setup has been completed
+
+.. image:: /assets/byte_research/test_setup.jpg
+   :width: 500px
+   :align: center
+
+|
+
+* Carbon Fiber leg has been created
+
+.. image:: /assets/byte_research/Carbon.jpeg
+   :width: 500px
+   :align: center
+
+|
