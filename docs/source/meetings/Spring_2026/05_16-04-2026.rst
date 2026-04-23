@@ -1,0 +1,11 @@
+16.04.2026
+==========
+
+**TLDR**: 6S battery won't be enough, so we are going to build a 12S4P battery. We are also going to build a box with 4 legs.
+
+**Location** : DLL
+
+* Going to build a 12S4P battery since the 6S won't be enough
+* Going to build a box with 4 legs
+* We are able to move a leg
+* We want to make a football demo

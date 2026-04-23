@@ -1,0 +1,40 @@
+Weeks of 06.04.2026 and 13.04.2026
+==================================
+
+**Miscellaneous**
+
+-
+
+**Team Software**
+
+* Got the simple carbon leg moving
+
+.. video:: /assets/byte_research/leg_moving.mp4
+  :width: 80%
+  :align: center
+
+**Team Elect**
+
+* Test setup was updated to include a precharge circuit and a cover for PDBueno
+
+.. image:: /assets/byte_research/New_Test_wiring.jpeg
+   :width: 500px
+   :align: center
+
+|
+
+* We now have a precharge circuit
+
+.. video:: /assets/byte_research/precharge.mp4
+  :width: 80%
+  :align: center
+
+**Team Mecha**
+
+* Leg is able to support 3 kg
+
+.. image:: /assets/byte_research/leg_holding.jpg
+   :width: 500px
+   :align: center
+
+|
