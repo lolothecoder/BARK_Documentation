@@ -7,7 +7,13 @@ Week of 20.04.2026
 
 **Team Software**
 
--
+- Managed to read the encoder values of the motors while idle
+- Simulated the leg in ROS2
+
+.. video:: /assets/byte_research/Simulation.mp4
+  :width: 80%
+  :align: center
+
 
 **Team Elect**
 

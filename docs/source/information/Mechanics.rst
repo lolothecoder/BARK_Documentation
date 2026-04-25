@@ -57,6 +57,15 @@ First Iteration
 
 |
 
+Simple Carbon Leg
+-----------------
+
+.. image:: /assets/byte_research/leg_holding.jpg
+   :width: 500px
+   :align: center
+
+|
+
 Test Setup
 ----------
 

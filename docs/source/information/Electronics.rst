@@ -1,12 +1,23 @@
 Electronics
 ===========
 
+System Wiring
+-------------
+
+This is the simplest implementation of the system. Every PDBueno will have 3 motors wired to it.
+
+.. image:: /assets/byte_research/System_Wiring.png
+   :width: 800px
+   :align: center
+
+|
+
 PDBueno (Power Distribution Board)
 ----------------------------------
 
 **The goal of this board is to interface with 3 GIM8108-8 motors for the TEST SETUP**
 
-.. image:: /assets/PCBueno.jpeg
+.. image:: /assets/byte_research/new_pdbueno.jpeg
    :width: 800px
 
 |
@@ -23,6 +34,7 @@ Requirements for the board are as follows
  * Wire in series 2x6S LiPo batteries
 
     * This is to obtain 44.4V and fall withing acceptable voltage to power the motors
+    * One of the two batteries can be shorted in order to only use a single 6S battery
 
  * Include Test Points to be able to measure the volatages in the battery
 
@@ -59,3 +71,4 @@ Back view:
    :align: center
 
 |
+

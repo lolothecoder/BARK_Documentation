@@ -1,0 +1,10 @@
+25.04.2026
+==========
+
+**TLDR**: Priorities are fixing Pupper and building a football demonstrator with the leg we already have. We want demos ready two weeks before all our presentations.
+
+**Location** : DLL
+
+* Top priority is getting Pupper fixed
+* Building a football demonstrator using the leg that we have
+* Goal is to have all demos ready two weeks before each of our presentations

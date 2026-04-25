@@ -31,11 +31,21 @@ Brainstorming Electrical/Sensor Requirements
 - IMU
 - Red emergency button
 
+Football Demonstrator
+~~~~~~~~~~~~~~~~~~~~~
+This is the demonstrator that we want to do: play football with the leg that we built.
+
+.. image:: /assets/byte_research/footbyte.jpeg
+   :width: 800px
+   :align: center
+
+|
+
 Test Setup Instructions
 ~~~~~~~~~~~~~~~~~~~~~~~
 Here is a diagram of the wiring for the test setup:
 
-.. image:: /assets/byte_research/TestSetupWiring.png
+.. image:: /assets/byte_research/NewTestSetupWiring.png
    :width: 800px
    :align: center
 
@@ -43,7 +53,7 @@ Here is a diagram of the wiring for the test setup:
 
 And the real implementation:
 
-.. image:: /assets/byte_research/TestSetupReal.jpeg
+.. image:: /assets/byte_research/New_Test_wiring.jpeg
    :width: 800px
    :align: center
 
@@ -55,19 +65,19 @@ Plug in the motors and the Jetson to the PDBueno
 
 **Step 2**
 
-Plug in the battery to the button
+Make sure the main switch is OFF and the Precharge Button is not engaged. Plug in the battery.
 
 **Step 3**
 
-Make sure the button is in the "ON" configuration
+Press the Precharge button to precharge the capacitors. Wait 10 seconds
 
 **Step 4**
 
-Plug in the yellow anti-spark connector about 1/4 of the way in to the PDBueno to charge the capacitors (about 10 seconds). The light on the buck should turn on and you should see the voltage stabilize on the multimeter.
+Turn ON the main switch
 
 **Step 5**
 
-Fully plug in the yellow anti-spark connector and the device is ready to use.
+Disengage the precharge button and the system is ready to use.
 
 **Nota Bene**
 
