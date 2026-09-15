@@ -107,5 +107,18 @@ Swiss Robotics Day (14.11.2025)
 
 |
 
-.. video:: /assets/SRD/promotional.mp4
+.. video:: /assets/SRD/BARK_promotional.mp4
   :width: 500
+
+Presidential Visit (May 2026)
+-----------------------------
+
+.. image:: /assets/presidential/pres_visit_all.jpg
+   :width: 500px
+
+|
+
+.. image:: /assets/presidential/pres_visit_2.jpeg
+   :width: 500px
+
+|

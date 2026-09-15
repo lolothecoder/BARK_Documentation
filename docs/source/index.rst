@@ -171,9 +171,9 @@ Members
    :caption: General Info
    :hidden:
 
-   /information/0_safety
+   /information/11_history
    /information/7_events
-   /information/5_website
+   /information/10_demo
 
 .. toctree::
    :maxdepth: 1
@@ -182,8 +182,6 @@ Members
 
    /information/3_dingo
    /information/1_DINGO_Software_setup
-   /information/4_dingo_last_sem
-   /information/6_diagnosis
 
 .. toctree::
    :maxdepth: 1
@@ -202,3 +200,13 @@ Members
    /information/Electronics
    /information/Software
    /information/Mechanics
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Miscellaneous
+   :hidden:
+
+   /information/0_safety
+   /information/5_website
+   /information/4_dingo_last_sem
+   /information/6_diagnosis

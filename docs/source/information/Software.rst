@@ -78,3 +78,8 @@ For validation, refer to the ``CAN_test_sender.py`` and ``CAN_test_receiver.py``
 
 .. note::
    View the source files in the `EPFL BARK Git Repo <https://github.com/EPFL-AI-Team/BARK/tree/Alex-Branch>`_.
+
+----
+
+Motor Control
+-------------

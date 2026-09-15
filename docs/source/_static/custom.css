@@ -1,0 +1,5 @@
+/* Videos are left-aligned by default, which makes them float and lets the
+   following heading or text wrap beside them. Keep them on their own line. */
+.sphinx-contrib-video-container.align-left {
+    float: none;
+}
