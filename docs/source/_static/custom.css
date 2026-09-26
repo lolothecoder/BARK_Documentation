@@ -3,3 +3,20 @@
 .sphinx-contrib-video-container.align-left {
     float: none;
 }
+
+/* Name of a Hall of Fame entry. */
+.hof-name strong {
+    font-size: 1.35em;
+}
+
+.hof-name {
+    margin-top: 0.8em;
+    margin-bottom: 0.2em;
+}
+
+/* Centered text block, used by the Hall of Fame entries. */
+.center,
+.center p,
+.center .line {
+    text-align: center;
+}

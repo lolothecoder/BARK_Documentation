@@ -1,10 +1,14 @@
 The History of BARK
 ===================
 
+.. note::
+
+   The AI Team never had official permission to call itself the EPFL AI Team, but did it anyways.
+
 Fall 2024: "The Dark Age"
 -------------------------
 
-BARK had no quadrupeds and was trying to build its first one. The EPFL AI Team was barely known around campus and was trying to make a name for itself.
+BARK had no quadrupeds and was trying to build its first one. The AI Team was barely known around campus and was trying to make a name for itself.
 The president of the AI Team had a big vision. At the end of the semester BARK still had no working quadruped.
 
 This semester can be represented by *The Birth of Venus* by Sandro Botticelli (c. 1484–1486).
@@ -21,8 +25,8 @@ BARK started working more consistently at SPOT and the team got bigger. However,
 before even building the original. Towards the end of the semester they quickly dropped the modifications and just built the original DINGO. Due to the lack of
 software knowledge in the team, they were only able to make the legs move one at a time on the stand.
 
-Interest in robotics was picking up and the EPFL AI Team was now more established on campus. They organized company visits to Logitech and talks on campus.
-Dislike for the board was slowly starting to grow, but the EPFL AI Team was getting recognition.
+Interest in robotics was picking up and the AI Team was now more established on campus. They organized company visits to Logitech and talks on campus.
+Dislike for the board was slowly starting to grow, but the AI Team was getting recognition.
 
 This period can be represented by one of Napoleon's earliest successes: the crossing of the Alps in May 1800, painted by Jacques-Louis David in *Napoleon Crossing the Alps* (1801).
 
@@ -40,7 +44,7 @@ for Pupper, which was assembled with ease. Pupper worked really well and Liam st
 The team also added a simple gripper on the back of the dog.
 
 The team won the Best Project award and the future looked bright. However, disdain for the president was brewing in the background and several members were
-unhappy with how things were run. Nevertheless, huge grants were secured for the EPFL AI Team.
+unhappy with how things were run. Nevertheless, huge grants were secured for the AI Team.
 
 This period can be represented by *The Triumph of the Victor* by Peter Paul Rubens (c. 1613), showing the goddess Victoria crowning a soldier for his victory.
 
@@ -52,15 +56,15 @@ This period can be represented by *The Triumph of the Victor* by Peter Paul Rube
 Spring 2026: "The Fall of Rome"
 -------------------------------
 
-Every great empire must fall. The arrival of the SAPIENS team brought great turmoil to the EPFL AI Team, but also much needed change. For the first time,
-BARK had a competitor in robotics within the EPFL AI Team. The semester started with a vote to oust the president, which he barely survived.
+Every great empire must fall. The arrival of the SAPIENS team brought great turmoil to the AI Team, but also much needed change. For the first time,
+BARK had a competitor in robotics within the AI Team. The semester started with a vote to oust the president, which he barely survived.
 
-Still, this semester was truly the peak of the EPFL AI Team. BARK started building its own custom quadruped, BYTE, DINGO finally walked a bit and Pupper was able
+Still, this semester was truly the peak of the AI Team. BARK started building its own custom quadruped, BYTE, DINGO finally walked a bit and Pupper was able
 to listen to instructions and find objects using its camera. BARK presented at multiple events and even to big names like NVIDIA and the Presidents of Switzerland,
 Poland and EPFL.
 
-However, these great highs came with great lows. Due to the mistreatment of the SPOT, the AI Team was banned and all members lost their access. The EPFL AI Team
-became just the AI Team, as EPFL was sick of being misrepresented. Over half of the board left because of the president's antics, and he finally decided to leave
+However, these great highs came with great lows. Due to the mistreatment of the SPOT, the AI Team was banned and all members lost their access. The team also had
+to drop the EPFL name, as EPFL was sick of being misrepresented. Over half of the board left because of the president's antics, and he finally decided to leave
 as well. The AI Team became infamous and hated by the SPOT coaches and other associations.
 
 This period can be represented by *The Course of Empire: Destruction* by Thomas Cole (1836).

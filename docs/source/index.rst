@@ -1,67 +1,48 @@
-Welcome to EPFL AI TEAM's BARK documentation!
-=============================================
+Welcome to AI TEAM's BARK documentation!
+========================================
 
-Hey there! This is where the BARK team stores all important info. You can find important ressources here and the logs of the work session and the notes of the meeting. For the 2025 - 2026 academic year, our goal is to finish the DINGO robot dog and build the Pupper V3 and start designing our custom dog: BYTE.  
+Hey there! This is where the BARK team stores all important info. You can find important ressources here and the logs of the work session and the notes of the meeting. For the 2026 - 2027 academic year, our goal is to get BYTE, our custom dog, to walk.
 
-.. list-table::
-   :widths: 50 50
-   :header-rows: 0
+.. image:: assets/new_background.png
+   :width: 800px
    :align: center
 
-   * - .. figure:: assets/dingo.jpg
-          :width: 300px
-          :align: center
+|
 
-          Dingo robot
-
-     - .. figure:: assets/pupper.jpg
-          :width: 200px
-          :align: center
-
-          Pupper V3
-
-**Important dates**
--------------------
-
-* 23.05.2026: XRC presentation
-* 28.05.2026: Vivapoly Stand + AI Center Demo
-* 27.05.2026: EOS presentation
-* 22.08.2026: Robovaly Stand
+|
 
 **Main Tasks**
 --------------
 
-Team Mecha : 
-~~~~~~~~~~~~
-
-* Louis
+Hardware
+~~~~~~~~
+* Jules
 * Killian
-* Rayane
-* Paul
-* Christy
+* Youssef
 
-Team Elect : 
-~~~~~~~~~~~~
-
-* Maxime
-* Anaïs
-
-Team Software : 
-~~~~~~~~~~~~~~~
-
+Software
+~~~~~~~~
+* Ariadna
+* Ishita
 * Alexandros
 * Salah
-* Liam
+* Alexis
 
-Work Sessions
-~~~~~~~~~~~~~
+Electronics
+~~~~~~~~~~~
+* Anaïs
+* Kerem
+* Rayane
 
-* Mondays 18h - 21h
-* Friday 18h - 21h
-* Saturday 11h - 18h
+**Work Sessions**
+-----------------
+
+* Mondays 17h - 20h
+* Friday 16h30 - 19h
+* Saturday 13h - 18h
 
 The first 30 mins of the saturday session will be our weekly meeting. Please try to be present.
-If you can't be present to a work session please inform Johnan or Loïc in advance!
+If you can't be present to a work session please inform Johnan or Paul in advance!
 
 **Accessing DINGO/Pupper/Matos**
 --------------------------------
@@ -121,32 +102,6 @@ But if you are not sure of something, ask someone who knows. We would like to av
 
 .. _Pupper v3 documentation: https://pupper-v3-documentation.readthedocs.io/en/latest/
 
-**Roles**
----------
-
-Robotics Track Lead
-~~~~~~~~~~~~~~~~~~~
-* Adam Mesbahi Amrani
-* Krish Chawla
-
-Project Leads
-~~~~~~~~~~~~~
-* Johnan Luca  
-* Loïc Finette
-
-Members
-~~~~~~~
-* Anaïs Espindola  
-* Louis Britton  
-* Rayane Zouagui
-* Liam Gibbons  
-* Killian Didierjean
-* Christy El Skaff  
-* Maxime Blanpain
-* Alexandros Dellios
-* Salah Hasnaoui
-* Paul de Courville
-
 .. note::
 
    This project is under active development.
@@ -172,6 +127,7 @@ Members
    :hidden:
 
    /information/11_history
+   /information/12_hall_of_fame
    /information/7_events
    /information/10_demo
 
@@ -197,6 +153,7 @@ Members
    :hidden:
 
    /information/9_newdog
+   /information/FootBYTE
    /information/Electronics
    /information/Software
    /information/Mechanics
