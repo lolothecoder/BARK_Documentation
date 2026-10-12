@@ -156,6 +156,7 @@ But if you are not sure of something, ask someone who knows. We would like to av
    /information/FootBYTE
    /information/Electronics
    /information/Software
+   /information/Jetson_Setup
    /information/Mechanics
 
 .. toctree::
